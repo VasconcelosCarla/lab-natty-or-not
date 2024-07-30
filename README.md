@@ -28,9 +28,9 @@ Este desafio foi uma oportunidade única para explorar o potencial das IAs Gener
 
 
 ## 📂 Imagens do Projeto
-![Imagem 1](assets/Projeto de Construção do Trem_.png)
-![Imagem 2](assets/Propriedades e Aplicações do M.png)
-![Imagem 3](assets/Utilização do Mineral Mercus.png)
+![Imagem 1](assets/img1.png)
+![Imagem 2](assets/img2.png)
+![Imagem 3](assets/img3.png)
 
 ## 📄 [Clique aqui para ler o projeto completo](projeto/Projeto-de-Construcao-do-Trem-Bala-em-Marte.pdf)
 
